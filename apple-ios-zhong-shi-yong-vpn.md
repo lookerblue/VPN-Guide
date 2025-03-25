@@ -4,5 +4,3 @@
 
 ## Shadowrocket 的使用
 
-<figure><img src=".gitbook/assets/WechatIMG97.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
